@@ -43,6 +43,10 @@ public class Stepdefinition {
 	public void user_should_verify_success_msg() {
 	   
 	}
+	@Then("User should verify success msg")
+	public void user_should_verify_success_msg2() {
+	   
+	}
 
 
 
