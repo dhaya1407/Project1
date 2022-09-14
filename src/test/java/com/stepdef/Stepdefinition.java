@@ -60,9 +60,17 @@ public void user_should_verify_success_msg6() {
    
 }
 @Then("User should verify success msg")
+public void user_should_verify_success_msg9() {
+   
+}
+@Then("User should verify success msg")
+public void user_should_verify_success_msg10() {
+}
+@Then("User should verify success msg")
 public void user_should_verify_success_msg8() {
    
 }
+
 
 
 
