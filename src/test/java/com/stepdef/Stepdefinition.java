@@ -63,11 +63,6 @@ public void user_should_verify_success_msg6() {
 public void user_should_verify_success_msg8() {
    
 }
-@Then("User should verify success msg")
-public void user_should_verify_success_msg9() {
-   
-}
-
 
 
 
