@@ -67,6 +67,8 @@ public void user_should_verify_success_msg8() {
 public void user_should_verify_success_msg9() {
    
 }
+@Then("User should verify success msg")
+public void user_should_verify_success_msg10() {
 
 
 
